@@ -24,4 +24,6 @@ class Student{
   protected var age: Int = _
   var sex: String = _
 
+
+
 }
